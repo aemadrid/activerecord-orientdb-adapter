@@ -26,12 +26,12 @@ Gem::Specification.new do |s|
     activerecord-orientdb-adapter.gemspec
     lib/active_record/connection_adapters/orientdb_adapter.rb
     lib/activerecord-orientdb-adapter.rb
+    lib/arjdbc/discover.rb
     lib/arjdbc/orientdb.rb
     lib/arjdbc/orientdb/adapter.rb
     lib/arjdbc/orientdb/connection_methods.rb
-    lib/arjdbc/discover.rb
-    test/orientdb_simple_test.rb
     test/db/orientdb.rb
+    test/orientdb_simple_test.rb
   ]
   # = MANIFEST =
 
